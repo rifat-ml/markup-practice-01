@@ -429,7 +429,6 @@ ul.second-section-list li:not(:last-child) {
 
 /* Gallery Section*/
 .gallery {
-  /* padding-top: 21.375rem; */
 }
 .gallery-slider {
   max-width: 100%;
@@ -586,10 +585,6 @@ section {
 }
 
 .footer-socials {
-  /* display: flex;
-  align-items: center; */
-  /* align-items: center; */
-  /* outline: solid; */
   display: flex;
   justify-content: space-around;
   align-items: center;
