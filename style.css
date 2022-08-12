@@ -520,7 +520,7 @@ section {
 
 @media (max-width: 420px) {
   .container {
-    --padding: 2rem;
+    --padding: 1.2rem;
   }
   .button {
     padding: 0.625rem 1.4375rem;
@@ -550,8 +550,8 @@ section {
   }
   .right {
     width: 9.25rem;
-    top: 16rem;
-    right: 1rem;
+    top: 17.5rem;
+    right: 1.2rem;
   }
   .primary-header {
     padding-top: 25px;
